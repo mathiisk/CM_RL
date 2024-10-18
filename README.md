@@ -6,6 +6,7 @@ Clone this repository
 cd path\to\projcet
 # Create and activate and environment
 conda create -n envname
+
 conda activate envname
 # Install the required dependencies
 pip install -r requirements.txt
